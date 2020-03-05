@@ -15,7 +15,7 @@
 13. Change the contents of helloWorld.txt file to ‘Hello from feature branch!’
 14. Commit and push your changes
 15. Merge merge-conflict brach into your feature branch ( feature/name-surname )
-16. Resolve conflicts with your favourite editor. Your finished helloWorld.txt file contents should be:\ 
+16. Resolve conflicts with your favourite editor. Your finished helloWorld.txt file contents should be:\
 ’Hello from feature branch!\
 and\
 Hello from merge-conflict branch!\
