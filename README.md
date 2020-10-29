@@ -1,10 +1,10 @@
 <h1>sourcery-dev-2020</h1>
 
 <ol>
-<li>Clone/Pull repository</li>
-<li>Create your branch. Name it like ‘feature/name-surname’</li>
-<li>Create a folder with your name like name-surname.</li>
-<li>Go to that folder. All changes you make will be inside this folder.</li>
+<li><input type="checkbox">Clone/Pull repository</li>
+<li><input type="checkbox">Create your branch. Name it like ‘feature/name-surname’</li>
+<li><input type="checkbox">Create a folder with your name like name-surname.</li>
+<li><input type="checkbox">Go to that folder. All changes you make will be inside this folder.</li>
 <li>Create a helloWorld.txt file with the text ‘Hello World!’</li>
 <li>Commit that file with message ‘My first commit’</li>
 <li>Push this code to repo</li>
