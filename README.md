@@ -3,6 +3,7 @@
 <ol>
   <li>Clone/Pull repository</li>
   <li>Create your branch. Name it like ‘feature/name-surname’</li>
+  <li>Switch to that branch.</li>
   <li>Create a folder with your name like name-surname.</li>
   <li>Go to that folder. All changes you make will be inside this folder.</li>
   <li>Create a helloWorld.txt file with the text ‘Hello World!’</li>
