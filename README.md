@@ -1,8 +1,18 @@
 <h1>sourcery-dev-2020</h1>
 
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 <ol>
-  - [x]<li>Clone/Pull repository</li>
-  - [x]<li>Create your branch. Name it like ‘feature/name-surname’</li>
+  <li>Clone/Pull repository</li>
+  <li>Create your branch. Name it like ‘feature/name-surname’</li>
   <li>Create a folder with your name like name-surname.</li>
   <li>Go to that folder. All changes you make will be inside this folder.</li>
   <li>Create a helloWorld.txt file with the text ‘Hello World!’</li>
